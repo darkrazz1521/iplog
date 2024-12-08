@@ -35,5 +35,5 @@ Before using the tool, make sure you have the following installed:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/iplog.git
+git clone https://github.com/darkrazz1521/iplog.git
 cd ip-logger-tool
